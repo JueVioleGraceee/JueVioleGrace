@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://raw.githubusercontent.com/RizkyFerdiansyah/RizkyFerdiansyah/master/IMG_16114660952369861.png" width="640" title="Menu" alt="Menu">
+</p>
+
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api/?username=RizkyFerdiansyah&show_icons=true" alt="git stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyFerdiansyah&code-architects&layout=compact" alt="Top language">

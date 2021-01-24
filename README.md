@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://raw.githubusercontent.com/Rizky/RizkyFerdiansyah/master/IMG_20200919_061139.png" width="640" title="Menu" alt="Menu">
+ <img src="https://raw.githubusercontent.com/Rizky/RizkyFerdiansyah/master/IMG_16114660952369861.png" width="640" title="Menu" alt="Menu">
 </p>
 
 ### Github Stats

@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=RizkyFerdiansyah&show_icons=true" alt="git stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyFerdiansyah&code-architects&layout=compact" alt="Top language">
 
-### Reporstory
+### Repositories
 <a href="https://github.com/RizkyFerdiansyah/Rizky-X"><img title="RIZKY-X" src="https://github-readme-stats.vercel.app/api/pin/?username=RizkyFerdiansyah&repo=Rizky-X&theme=vision-friendly-white"></a>
 <a href="https://github.com/RizkyFerdiansyah/UNIS3X"><img title="UNIS3X" src="https://github-readme-stats.vercel.app/api/pin/?username=RizkyFerdiansyah&repo=UNIS3X&theme=vision-friendly-white"></a>
 <a href="https://github.com/RizkyFerdiansyah/RizkyPro"><img title="RIZKYPRO" src="https://github-readme-stats.vercel.app/api/pin/?username=RizkyFerdiansyah&repo=RizkyPro&theme=vision-friendly-white"></a>
